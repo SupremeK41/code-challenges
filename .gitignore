@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+private/
+assessments/
+*.pdf
+*.zip
+*.pem
+*.key
