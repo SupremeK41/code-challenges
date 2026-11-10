@@ -52,3 +52,9 @@ Coderbyte here means public practice. Employer assessments, private links, quest
 - [Project index and AI-assisted experiments](https://github.com/SupremeK41)
 
 Repository structure, helper and documentation were prepared with AI assistance on 7 November 2026. Future solutions should identify the assistance actually used.
+
+## Saved practice attempts
+
+| Problem | Language | Record |
+|---|---|---|
+| [Codeland Username Validation](coderbyte/practice/javascript/codeland-username-validation/) | JavaScript | First Easy solution (learner-reported), saved 10 November 2026; 12/12 assistant-run local checks matched; explanation/transfer review pending |
