@@ -58,3 +58,4 @@ Repository structure, helper and documentation were prepared with AI assistance 
 | Problem | Language | Record |
 |---|---|---|
 | [Codeland Username Validation](coderbyte/practice/javascript/codeland-username-validation/) | JavaScript | First Easy solution (learner-reported), saved 10 November 2026; 12/12 assistant-run local checks matched; explanation/transfer review pending |
+| [Longest Word](coderbyte/practice/javascript/longest-word/) | JavaScript | Second reported Easy solution, saved 11 November 2026; 8/8 ordinary-script checks matched; undeclared loop variable fails strict mode; review pending |
