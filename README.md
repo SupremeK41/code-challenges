@@ -1,6 +1,6 @@
 # Code Challenges
 
-My independent coding practice, kept separate from course projects, AI-assisted experiments and my dissertation.
+My coding practice, with independent attempts and AI-assisted work labelled explicitly. Kept separate from course projects, larger AI-assisted experiments and my dissertation. A saved solution or commit does not certify independent competence.
 
 ## Folders
 
@@ -59,3 +59,7 @@ Repository structure, helper and documentation were prepared with AI assistance 
 |---|---|---|
 | [Codeland Username Validation](coderbyte/practice/javascript/codeland-username-validation/) | JavaScript | First Easy solution (learner-reported), saved 10 November 2026; 12/12 assistant-run local checks matched; explanation/transfer review pending |
 | [Longest Word](coderbyte/practice/javascript/longest-word/) | JavaScript | Second reported Easy solution, saved 11 November 2026; 8/8 ordinary-script checks matched; undeclared loop variable fails strict mode; review pending |
+| [First Factorial](coderbyte/practice/javascript/first-factorial/) | JavaScript | Saved 12 November 2026; 4/4 limited local checks matched; learner-supplied attempt; assistance/explanation review pending |
+| [Find Intersection](coderbyte/practice/javascript/find-intersection/) | JavaScript | Saved 12 November 2026; 4/4 limited local checks matched; learner-supplied attempt; assistance/explanation review pending |
+| [Question Marks](coderbyte/practice/javascript/questions-marks/) | JavaScript | Saved 12 November 2026; 6/6 limited local checks matched; **AI-assisted**; learner reports getting close before asking AI for help; independent retry pending |
+| [First Reverse](coderbyte/practice/javascript/first-reverse/) | JavaScript | Saved 12 November 2026; 4/4 limited local checks matched; learner-supplied attempt; assistance/explanation review pending |
